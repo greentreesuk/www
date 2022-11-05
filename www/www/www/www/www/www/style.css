@@ -514,7 +514,3 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
-
-div.spacer {
-  margin-top: 10px;
-}
